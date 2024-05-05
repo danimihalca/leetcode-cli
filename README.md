@@ -44,6 +44,7 @@ Great thanks to leetcode.com, a really awesome website!
 	Login with third party account--LinkedIn  $ leetcode user -i
 	Cookie login with cookie                  $ leetcode user -c
 	Browse all questions                      $ leetcode list
+	Browse question by study plan             $ leetcode studyplan aaa
 	Choose one question                       $ leetcode show 1 -g -l cpp
 	Coding it!
 	Run test(s) and pray...                   $ leetcode test ./two-sum.cpp -t '[3,2,4]\n7'

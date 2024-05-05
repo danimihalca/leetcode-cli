@@ -17,6 +17,7 @@ title: Commands Help
 - [test](#test)
 - [user](#user)
 - [version](#version)
+TODO: document study plan
 
 # help
 
